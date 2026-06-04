@@ -23,6 +23,10 @@ sh train.sh
 ```bash
 sh test.sh 
 ```
+##Pretrained Weights
+The pretrained checkpoint stvit_small_224.pth can be downloaded from [ https://drive.google.com/file/d/10s79is5YGr4BpBJNTy15ak9Mk3tA9PSm/view?usp=drive_link].
+
+After downloading, place it under:staunet/pretrained_ckpt/stvit_small_224.pth
 ## References
 * [Swin-Unet](https://github.com/HuCaoFighting/Swin-Unet)
 * [STViT](https://github.com/hhb072/STViT)
