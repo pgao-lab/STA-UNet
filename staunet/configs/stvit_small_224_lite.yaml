@@ -1,0 +1,10 @@
+MODEL:
+  TYPE: stvit
+  NAME: stvit_small_224
+  DROP_PATH_RATE: 0.2
+  PRETRAIN_CKPT: "./pretrained_ckpt/stvit_small_224.pth"
+  STViT:
+    EMBED_DIM: [64, 128, 320, 512]
+    DEPTH: [ 2, 2, 2, 1 ]
+    NUM_HEADS: [ 1, 2, 5, 8 ]
+
