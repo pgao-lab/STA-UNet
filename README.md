@@ -37,6 +37,7 @@ After downloading, place it under:staunet/pretrained_ckpt/stvit_small_224.pth
   title={Transformer UNet with super token attention for medical image segmentation},
   author={Gao, Peng and Xia, Ling-Xin and Liu, Xiao and Wang, Fei and Yuan, Ru-Yue},
   journal={Applied Soft Computing},
+  volume={202},
   pages={115752},
   year={2026},
   publisher={Elsevier}
